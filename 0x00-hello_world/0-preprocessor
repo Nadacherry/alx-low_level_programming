@@ -1,3 +1,2 @@
 #!/bin/bash
-file.c = $CFILE
-gcc -E file.c -O C
+gcc -E $CFILE -O C
