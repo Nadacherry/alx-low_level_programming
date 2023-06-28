@@ -2,7 +2,7 @@
 
 /**
  * main - entry point to the program
- * 
+ *
  * Return: 0 on successful execution
  *
  */
